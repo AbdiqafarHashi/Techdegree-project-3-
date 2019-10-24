@@ -89,6 +89,7 @@ border: 3px solid transparent;
 border-radius: .3125em;
 padding: .625em; 
 width: 100%;
+transition: all 0.7s ease;
 }
 
 input[type="text"]:focus,
