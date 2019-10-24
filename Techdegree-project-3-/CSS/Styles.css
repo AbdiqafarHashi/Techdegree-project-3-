@@ -175,7 +175,7 @@ footer {
 fieldset div {
   flex-direction: row;
   align-items: center;
-  justify-content: center;
+  justify-content: left;
 }
 
 label {
@@ -191,13 +191,10 @@ label {
 .hashi{
   width: 100%;
 }
-.zip input {width: 50%}
-
+#zip{
+  width: 22%;
 }
-
-
-
-
-
-
-
+.zip{
+  width: 28%;
+}
+}
